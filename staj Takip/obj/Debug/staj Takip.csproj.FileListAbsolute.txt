@@ -1,0 +1,60 @@
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\bin\Debug\staj Takip.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\bin\Debug\staj Takip.exe
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\bin\Debug\staj Takip.pdb
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj Takip.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.Form2.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.Form3.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl1.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl2.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl3.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl4.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl5.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl6.resources
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj Takip.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj Takip.exe
+c:\users\hp\documents\visual studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj Takip.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl7.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl8.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl9.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\bin\Debug\staj Takip.exe.config
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj Takip.exe
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj Takip.pdb
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\bin\Debug\staj Takip.exe
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\bin\Debug\staj Takip.pdb
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj Takip.csprojResolveAssemblyReference.cache
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.Form1.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.Form2.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.Form3.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.Properties.Resources.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl1.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl2.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl3.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl4.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl5.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl6.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl7.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl8.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl9.resources
+C:\Users\SELAHATTİN\Desktop\staj Takip\staj Takip\obj\Debug\staj Takip.csproj.GenerateResource.Cache
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\bin\Debug\staj Takip.exe.config
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj Takip.exe
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj Takip.pdb
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\bin\Debug\staj Takip.exe
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\bin\Debug\staj Takip.pdb
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj Takip.csprojResolveAssemblyReference.cache
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.Form1.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.Form2.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.Form3.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.Properties.Resources.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl1.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl2.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl3.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl4.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl5.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl6.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl7.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl8.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj_Takip.UserControl9.resources
+E:\Yazılım\C#.NET Entity Freimwork Uygulamalar\staj Takip\staj Takip\obj\Debug\staj Takip.csproj.GenerateResource.Cache
